@@ -9,4 +9,4 @@ Each student is required to write a two-page summary on one paper of his/her cho
 Example of Student Work
 -----------------------
 
-Summary of "The DNA Helix and How It Is Read," by Richard E. Dickerson. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mjura)) (Courtesy of Michael Jura. Used with permission.)
+Summary of "The DNA Helix and How It Is Read," by Richard E. Dickerson. ([PDF]({{< baseurl >}}/resources/mjura)) (Courtesy of Michael Jura. Used with permission.)
